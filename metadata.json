@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "last_updated": "YYYY-MM-DD",
+  "wallpapers": [
+    {
+      "id": "unique_id",
+      "title": "Wallpaper Title",
+      "description": "Wallpaper description",
+      "photographer": "Photographer Name",
+      "photographer_url": "https://github.com/photographer",
+      "width": 3840,
+      "height": 2160,
+      "color": "#HEX_COLOR",
+      "categories": ["Category1", "Category2"]
+    }
+  ]
+}
